@@ -1,0 +1,16 @@
+__pycache__
+env
+.vscode
+Gemfile.lock
+
+# Eclipse
+# -------
+*.project
+*.settings
+
+# IntelliJ
+# --------
+*.iml
+.idea/
+
+_site/
